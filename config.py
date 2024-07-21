@@ -5,7 +5,7 @@ class Config(object):
     API_HASH = os.environ.get("API_HASH","87a837607d9761cdf98bbc3e61eef098")
     BOT_TOKEN = os.environ.get("BOT_TOKEN","7238067007:AAG1pDJTUBwKzeeu0o-G0acMrQUA4JN9Zug")
     TELEGRAM_API = os.environ.get("TELEGRAM_API","23270278")
-    OWNER = os.environ.get("OWNER,"6890795853")
+    OWNER = os.environ.get("OWNER,'809614790")
     OWNER_USERNAME = os.environ.get("OWNER_USERNAME","BillyButcher_007")
     PASSWORD = os.environ.get("PASSWORD","VKLeech")
     DATABASE_URL = os.environ.get("DATABASE_URL","mongodb+srv://parcel:malliga@cluster0.xoax6ur.mongodb.net/?retryWrites=true&w=majority")
